@@ -1,0 +1,10 @@
+@charset "Shift_JIS";
+
+/* no ie mac \*/
+@import url("/common/css/layout.css");
+@import url("/common/css/simple.css");
+@import url("/common/css/parts.css");
+@import url("/common/css/old.css");
+@import url("/common/css/tooltip.css");
+@import url("/common/css/alaya.css");
+/*  */

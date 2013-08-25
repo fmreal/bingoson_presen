@@ -1,0 +1,41 @@
+@charset "Shift_JIS";
+
+#contentsArea {
+	overflow: visible !important;
+	width: 100% !important;
+}
+
+
+/* == Header */
+#headerArea{
+	background: none;
+	height: 60px;
+	width: 100%;
+}
+#headerNav{
+	display: none;
+}
+#utilityBlock{
+	display: none;
+}
+
+/* == PageTopLink */
+.toPageTop{
+	display: none;
+}
+
+/* == Fotter */
+#footerArea{
+	width: 100%;
+}
+
+#fotterNavBox {
+	display: none;
+}
+#footerUtilityBlock{
+	display: none;
+}
+
+#alcoholTxt{
+	display: none;
+}
